@@ -1,7 +1,15 @@
-[
-  {
-    "title": "Vietnam",
-    "departure_date": "2020-12-14 08:00",
-    "departure_date": "2020-12-18 08:00"
-  }
-]
+{
+	"trips":[
+			  {
+			    "title": "Vietnam",
+			    "departure_date": "2020-12-14 08:00",
+			    "departure_date": "2020-12-18 08:00"
+			  },
+			  {
+			    "title": "Cambodia",
+			    "departure_date": "2021-1-14 08:00",
+			    "departure_date": "2021-1-18 08:00"
+			  }
+		]
+}
+
